@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.Notes[data-active=false]{display:none}.note{-ms-flex-direction:column;flex-direction:column;width:200px;height:100px;border:1px solid #000;-ms-flex-pack:distribute;justify-content:space-around}.note,.noteList{display:-ms-flexbox;display:flex}.noteList{-ms-flex-wrap:wrap;flex-wrap:wrap}.noteList li{margin-right:15px}
+/*# sourceMappingURL=main.9d2ab9ca.css.map*/

@@ -1,0 +1,18 @@
+.Notes[data-active=false]{
+  display:none;
+}
+.note{
+  display:flex;
+  flex-direction: column;
+  width:200px;
+  height:100px;
+  border:1px solid black;
+  justify-content: space-around;
+}
+.noteList{
+  display:flex;
+  flex-wrap: wrap;
+}
+.noteList li{
+  margin-right: 15px;
+}
